@@ -1,0 +1,7 @@
+D:\Schule\3bWI\SWP1_fo\C#\08_Casino_Spieler\08_Casino_Spieler\bin\Debug\08_Casino_Spieler.exe.config
+D:\Schule\3bWI\SWP1_fo\C#\08_Casino_Spieler\08_Casino_Spieler\bin\Debug\08_Casino_Spieler.exe
+D:\Schule\3bWI\SWP1_fo\C#\08_Casino_Spieler\08_Casino_Spieler\bin\Debug\08_Casino_Spieler.pdb
+D:\Schule\3bWI\SWP1_fo\C#\08_Casino_Spieler\08_Casino_Spieler\obj\Debug\08_Casino_Spieler.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\C#\08_Casino_Spieler\08_Casino_Spieler\obj\Debug\08_Casino_Spieler.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\C#\08_Casino_Spieler\08_Casino_Spieler\obj\Debug\08_Casino_Spieler.exe
+D:\Schule\3bWI\SWP1_fo\C#\08_Casino_Spieler\08_Casino_Spieler\obj\Debug\08_Casino_Spieler.pdb

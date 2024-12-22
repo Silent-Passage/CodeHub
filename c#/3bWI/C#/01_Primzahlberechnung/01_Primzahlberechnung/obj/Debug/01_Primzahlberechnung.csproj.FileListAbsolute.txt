@@ -1,0 +1,8 @@
+D:\Schule\3bWI\SWP1_fo\C#\01_Primzahlberechnung\01_Primzahlberechnung\bin\Debug\01_Primzahlberechnung.exe.config
+D:\Schule\3bWI\SWP1_fo\C#\01_Primzahlberechnung\01_Primzahlberechnung\bin\Debug\01_Primzahlberechnung.exe
+D:\Schule\3bWI\SWP1_fo\C#\01_Primzahlberechnung\01_Primzahlberechnung\bin\Debug\01_Primzahlberechnung.pdb
+D:\Schule\3bWI\SWP1_fo\C#\01_Primzahlberechnung\01_Primzahlberechnung\obj\Debug\01_Primzahlberechnung.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\C#\01_Primzahlberechnung\01_Primzahlberechnung\obj\Debug\01_Primzahlberechnung.csproj.SuggestedBindingRedirects.cache
+D:\Schule\3bWI\SWP1_fo\C#\01_Primzahlberechnung\01_Primzahlberechnung\obj\Debug\01_Primzahlberechnung.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\C#\01_Primzahlberechnung\01_Primzahlberechnung\obj\Debug\01_Primzahlberechnung.exe
+D:\Schule\3bWI\SWP1_fo\C#\01_Primzahlberechnung\01_Primzahlberechnung\obj\Debug\01_Primzahlberechnung.pdb

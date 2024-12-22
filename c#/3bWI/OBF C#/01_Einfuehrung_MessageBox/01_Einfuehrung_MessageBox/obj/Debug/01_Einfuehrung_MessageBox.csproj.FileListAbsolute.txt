@@ -1,0 +1,10 @@
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\bin\Debug\01_Einfuehrung_MessageBox.exe.config
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\bin\Debug\01_Einfuehrung_MessageBox.exe
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\bin\Debug\01_Einfuehrung_MessageBox.pdb
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\obj\Debug\01_Einfuehrung_MessageBox.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\obj\Debug\_01_Einfuehrung_MessageBox.Properties.Resources.resources
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\obj\Debug\01_Einfuehrung_MessageBox.csproj.GenerateResource.cache
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\obj\Debug\01_Einfuehrung_MessageBox.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\obj\Debug\01_Einfuehrung_MessageBox.exe
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\obj\Debug\01_Einfuehrung_MessageBox.pdb
+D:\Schule\3bWI\SWP1_fo\OBF C#\01_Einfuehrung_MessageBox\01_Einfuehrung_MessageBox\obj\Debug\_01_Einfuehrung_MessageBox.frm_Main.resources

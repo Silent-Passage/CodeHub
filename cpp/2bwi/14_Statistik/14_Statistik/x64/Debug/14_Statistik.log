@@ -1,0 +1,6 @@
+﻿  statistik.cpp
+D:\2bWI\SWP1\14_Statistik\14_Statistik\statistik.cpp(54,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\2bWI\SWP1\14_Statistik\14_Statistik\statistik.cpp(58,28): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\2bWI\SWP1\14_Statistik\14_Statistik\statistik.cpp(70,13): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\2bWI\SWP1\14_Statistik\14_Statistik\statistik.cpp(74,28): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  14_Statistik.vcxproj -> D:\2bWI\SWP1\14_Statistik\x64\Debug\14_Statistik.exe

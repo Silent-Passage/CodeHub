@@ -1,0 +1,23 @@
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\_02_Lehrer_Schueler_Registrierung.frm_Main.resources
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\_02_Lehrer_Schueler_Registrierung.Properties.Resources.resources
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.csproj.GenerateResource.cache
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\bin\Debug\02_Lehrer_Schueler_Registrierung.exe.config
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\bin\Debug\02_Lehrer_Schueler_Registrierung.exe
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\bin\Debug\02_Lehrer_Schueler_Registrierung.pdb
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.exe
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.pdb
+D:\Schule\3bWI\SWP1_fo\OBF C#\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\_02_Lehrer_Schueler_Registrierung.frm_Ausgabe.resources
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\bin\Debug\02_Lehrer_Schueler_Registrierung.exe.config
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\bin\Debug\02_Lehrer_Schueler_Registrierung.exe
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\bin\Debug\02_Lehrer_Schueler_Registrierung.pdb
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\_02_Lehrer_Schueler_Registrierung.frm_Main.resources
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\_02_Lehrer_Schueler_Registrierung.frm_Ausgabe.resources
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\_02_Lehrer_Schueler_Registrierung.Properties.Resources.resources
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.exe
+C:\Users\Acer\Documents\Schule\3. Schuljahr\Swp\C# Oberflächenprogrammierung\02_Lehrer_Schueler_Registrierung\02_Lehrer_Schueler_Registrierung\obj\Debug\02_Lehrer_Schueler_Registrierung.pdb

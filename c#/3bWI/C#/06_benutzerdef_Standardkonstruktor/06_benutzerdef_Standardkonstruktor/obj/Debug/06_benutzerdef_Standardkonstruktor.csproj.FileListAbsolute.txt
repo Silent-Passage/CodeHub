@@ -1,0 +1,7 @@
+D:\Schule\3bWI\SWP1_fo\C#\06_benutzerdef_Standardkonstruktor\06_benutzerdef_Standardkonstruktor\bin\Debug\06_benutzerdef_Standardkonstruktor.exe.config
+D:\Schule\3bWI\SWP1_fo\C#\06_benutzerdef_Standardkonstruktor\06_benutzerdef_Standardkonstruktor\bin\Debug\06_benutzerdef_Standardkonstruktor.exe
+D:\Schule\3bWI\SWP1_fo\C#\06_benutzerdef_Standardkonstruktor\06_benutzerdef_Standardkonstruktor\bin\Debug\06_benutzerdef_Standardkonstruktor.pdb
+D:\Schule\3bWI\SWP1_fo\C#\06_benutzerdef_Standardkonstruktor\06_benutzerdef_Standardkonstruktor\obj\Debug\06_benutzerdef_Standardkonstruktor.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\C#\06_benutzerdef_Standardkonstruktor\06_benutzerdef_Standardkonstruktor\obj\Debug\06_benutzerdef_Standardkonstruktor.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\C#\06_benutzerdef_Standardkonstruktor\06_benutzerdef_Standardkonstruktor\obj\Debug\06_benutzerdef_Standardkonstruktor.exe
+D:\Schule\3bWI\SWP1_fo\C#\06_benutzerdef_Standardkonstruktor\06_benutzerdef_Standardkonstruktor\obj\Debug\06_benutzerdef_Standardkonstruktor.pdb

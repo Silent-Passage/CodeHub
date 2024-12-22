@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Schule\\3bWI\\SWP1_fo\\OOP\\Vereerbungen\\3_Vererbung_Methode_abstrakt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D039975-2D3F-4522-B6C6-BDC9F39305C4}|3_Vererbung_Methode_abstrakt\\3_Vererbung_Methode_abstrakt.csproj|d:\\schule\\3bwi\\swp1_fo\\oop\\vereerbungen\\3_vererbung_methode_abstrakt\\3_vererbung_methode_abstrakt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D039975-2D3F-4522-B6C6-BDC9F39305C4}|3_Vererbung_Methode_abstrakt\\3_Vererbung_Methode_abstrakt.csproj|solutionrelative:3_vererbung_methode_abstrakt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D039975-2D3F-4522-B6C6-BDC9F39305C4}|3_Vererbung_Methode_abstrakt\\3_Vererbung_Methode_abstrakt.csproj|d:\\schule\\3bwi\\swp1_fo\\oop\\vereerbungen\\3_vererbung_methode_abstrakt\\3_vererbung_methode_abstrakt\\cluftfahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D039975-2D3F-4522-B6C6-BDC9F39305C4}|3_Vererbung_Methode_abstrakt\\3_Vererbung_Methode_abstrakt.csproj|solutionrelative:3_vererbung_methode_abstrakt\\cluftfahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLuftfahrzeug.cs",
+              "DocumentMoniker": "D:\\Schule\\3bWI\\SWP1_fo\\OOP\\Vereerbungen\\3_Vererbung_Methode_abstrakt\\3_Vererbung_Methode_abstrakt\\CLuftfahrzeug.cs",
+              "RelativeDocumentMoniker": "3_Vererbung_Methode_abstrakt\\CLuftfahrzeug.cs",
+              "ToolTip": "D:\\Schule\\3bWI\\SWP1_fo\\OOP\\Vereerbungen\\3_Vererbung_Methode_abstrakt\\3_Vererbung_Methode_abstrakt\\CLuftfahrzeug.cs",
+              "RelativeToolTip": "3_Vererbung_Methode_abstrakt\\CLuftfahrzeug.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:06:30.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Schule\\3bWI\\SWP1_fo\\OOP\\Vereerbungen\\3_Vererbung_Methode_abstrakt\\3_Vererbung_Methode_abstrakt\\Program.cs",
+              "RelativeDocumentMoniker": "3_Vererbung_Methode_abstrakt\\Program.cs",
+              "ToolTip": "D:\\Schule\\3bWI\\SWP1_fo\\OOP\\Vereerbungen\\3_Vererbung_Methode_abstrakt\\3_Vererbung_Methode_abstrakt\\Program.cs",
+              "RelativeToolTip": "3_Vererbung_Methode_abstrakt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:06:10.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Schule\3bWI\SWP1_fo\C#\05_impliziter_Standardkonstruktor\05_impliziter_Standardkonstruktor\bin\Debug\05_impliziter_Standardkonstruktor.exe.config
+D:\Schule\3bWI\SWP1_fo\C#\05_impliziter_Standardkonstruktor\05_impliziter_Standardkonstruktor\bin\Debug\05_impliziter_Standardkonstruktor.exe
+D:\Schule\3bWI\SWP1_fo\C#\05_impliziter_Standardkonstruktor\05_impliziter_Standardkonstruktor\bin\Debug\05_impliziter_Standardkonstruktor.pdb
+D:\Schule\3bWI\SWP1_fo\C#\05_impliziter_Standardkonstruktor\05_impliziter_Standardkonstruktor\obj\Debug\05_impliziter_Standardkonstruktor.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\C#\05_impliziter_Standardkonstruktor\05_impliziter_Standardkonstruktor\obj\Debug\05_impliziter_Standardkonstruktor.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\C#\05_impliziter_Standardkonstruktor\05_impliziter_Standardkonstruktor\obj\Debug\05_impliziter_Standardkonstruktor.exe
+D:\Schule\3bWI\SWP1_fo\C#\05_impliziter_Standardkonstruktor\05_impliziter_Standardkonstruktor\obj\Debug\05_impliziter_Standardkonstruktor.pdb

@@ -1,0 +1,7 @@
+D:\Schule\3bWI\SWP1_fo\OOP C#\Array List\01_ArrayList_Einfuehrung\01_ArrayList_Einfuehrung\bin\Debug\01_ArrayList_Einfuehrung.exe.config
+D:\Schule\3bWI\SWP1_fo\OOP C#\Array List\01_ArrayList_Einfuehrung\01_ArrayList_Einfuehrung\bin\Debug\01_ArrayList_Einfuehrung.exe
+D:\Schule\3bWI\SWP1_fo\OOP C#\Array List\01_ArrayList_Einfuehrung\01_ArrayList_Einfuehrung\bin\Debug\01_ArrayList_Einfuehrung.pdb
+D:\Schule\3bWI\SWP1_fo\OOP C#\Array List\01_ArrayList_Einfuehrung\01_ArrayList_Einfuehrung\obj\Debug\01_ArrayList_Einfuehrung.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\OOP C#\Array List\01_ArrayList_Einfuehrung\01_ArrayList_Einfuehrung\obj\Debug\01_ArrayList_Einfuehrung.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\OOP C#\Array List\01_ArrayList_Einfuehrung\01_ArrayList_Einfuehrung\obj\Debug\01_ArrayList_Einfuehrung.exe
+D:\Schule\3bWI\SWP1_fo\OOP C#\Array List\01_ArrayList_Einfuehrung\01_ArrayList_Einfuehrung\obj\Debug\01_ArrayList_Einfuehrung.pdb

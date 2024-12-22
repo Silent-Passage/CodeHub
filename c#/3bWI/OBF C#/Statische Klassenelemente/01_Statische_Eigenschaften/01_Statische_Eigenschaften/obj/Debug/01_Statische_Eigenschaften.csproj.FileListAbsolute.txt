@@ -1,0 +1,7 @@
+D:\Schule\3bWI\SWP1_fo\OBF C#\Statische Klassenelemente\01_Statische_Eigenschaften\01_Statische_Eigenschaften\obj\Debug\01_Statische_Eigenschaften.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\OBF C#\Statische Klassenelemente\01_Statische_Eigenschaften\01_Statische_Eigenschaften\obj\Debug\01_Statische_Eigenschaften.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\OBF C#\Statische Klassenelemente\01_Statische_Eigenschaften\01_Statische_Eigenschaften\bin\Debug\01_Statische_Eigenschaften.exe.config
+D:\Schule\3bWI\SWP1_fo\OBF C#\Statische Klassenelemente\01_Statische_Eigenschaften\01_Statische_Eigenschaften\bin\Debug\01_Statische_Eigenschaften.exe
+D:\Schule\3bWI\SWP1_fo\OBF C#\Statische Klassenelemente\01_Statische_Eigenschaften\01_Statische_Eigenschaften\bin\Debug\01_Statische_Eigenschaften.pdb
+D:\Schule\3bWI\SWP1_fo\OBF C#\Statische Klassenelemente\01_Statische_Eigenschaften\01_Statische_Eigenschaften\obj\Debug\01_Statische_Eigenschaften.exe
+D:\Schule\3bWI\SWP1_fo\OBF C#\Statische Klassenelemente\01_Statische_Eigenschaften\01_Statische_Eigenschaften\obj\Debug\01_Statische_Eigenschaften.pdb

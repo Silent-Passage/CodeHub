@@ -1,0 +1,7 @@
+D:\Schule\3bWI\SWP1_fo\OOP\Vereerbungen\4_Vererbung_Methode_Virtual\4_Vererbung_Methode_Virtual\bin\Debug\4_Vererbung_Methode_Virtual.exe.config
+D:\Schule\3bWI\SWP1_fo\OOP\Vereerbungen\4_Vererbung_Methode_Virtual\4_Vererbung_Methode_Virtual\bin\Debug\4_Vererbung_Methode_Virtual.exe
+D:\Schule\3bWI\SWP1_fo\OOP\Vereerbungen\4_Vererbung_Methode_Virtual\4_Vererbung_Methode_Virtual\bin\Debug\4_Vererbung_Methode_Virtual.pdb
+D:\Schule\3bWI\SWP1_fo\OOP\Vereerbungen\4_Vererbung_Methode_Virtual\4_Vererbung_Methode_Virtual\obj\Debug\4_Vererbung_Methode_Virtual.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\OOP\Vereerbungen\4_Vererbung_Methode_Virtual\4_Vererbung_Methode_Virtual\obj\Debug\4_Vererbung_Methode_Virtual.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\OOP\Vereerbungen\4_Vererbung_Methode_Virtual\4_Vererbung_Methode_Virtual\obj\Debug\4_Vererbung_Methode_Virtual.exe
+D:\Schule\3bWI\SWP1_fo\OOP\Vereerbungen\4_Vererbung_Methode_Virtual\4_Vererbung_Methode_Virtual\obj\Debug\4_Vererbung_Methode_Virtual.pdb

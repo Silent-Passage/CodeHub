@@ -1,0 +1,7 @@
+D:\Schule\3bWI\SWP1_fo\C#\04_Reise_nach\04_Reise_nach\bin\Debug\04_Reise_nach.exe.config
+D:\Schule\3bWI\SWP1_fo\C#\04_Reise_nach\04_Reise_nach\bin\Debug\04_Reise_nach.exe
+D:\Schule\3bWI\SWP1_fo\C#\04_Reise_nach\04_Reise_nach\bin\Debug\04_Reise_nach.pdb
+D:\Schule\3bWI\SWP1_fo\C#\04_Reise_nach\04_Reise_nach\obj\Debug\04_Reise_nach.csproj.AssemblyReference.cache
+D:\Schule\3bWI\SWP1_fo\C#\04_Reise_nach\04_Reise_nach\obj\Debug\04_Reise_nach.csproj.CoreCompileInputs.cache
+D:\Schule\3bWI\SWP1_fo\C#\04_Reise_nach\04_Reise_nach\obj\Debug\04_Reise_nach.exe
+D:\Schule\3bWI\SWP1_fo\C#\04_Reise_nach\04_Reise_nach\obj\Debug\04_Reise_nach.pdb
